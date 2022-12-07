@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2022-12-03T11:27:16.372Z",
-    "end": "2022-12-03T11:27:18.946Z",
-    "duration": 2574
+    "start": "2022-12-07T09:38:20.008Z",
+    "end": "2022-12-07T09:38:22.700Z",
+    "duration": 2692
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "has the `returnFirstTwoDrivers` function to as its first element",
       "fullTitle": "index.js selectingDrivers has the `returnFirstTwoDrivers` function to as its first element",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,7 +55,7 @@
     {
       "title": "should multiply a given value using the created multiplier",
       "fullTitle": "index.js createFareMultiplier() should multiply a given value using the created multiplier",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,7 +76,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,7 +122,7 @@
     {
       "title": "has the `returnFirstTwoDrivers` function to as its first element",
       "fullTitle": "index.js selectingDrivers has the `returnFirstTwoDrivers` function to as its first element",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,7 +150,7 @@
     {
       "title": "should multiply a given value using the created multiplier",
       "fullTitle": "index.js createFareMultiplier() should multiply a given value using the created multiplier",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -171,7 +171,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
